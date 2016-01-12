@@ -9,4 +9,4 @@ Use:
 
 Work in Progress. Test with the first and third-person templates. 
 
-[Screenshot](screenshot.png)
+[Screenshot](screenshot.jpg)
